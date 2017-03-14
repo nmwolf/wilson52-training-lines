@@ -65,17 +65,5 @@ The [original directory](https://digitalcollections.nypl.org/items/de3c45b0-a30b
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="orcid.org/0000-0001-5512-6151">
-    <span property="dct:title">Nicholas Wolf</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">wilson52-training-lines</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="orcid.org/0000-0001-5512-6151">
-  United States</span>.
-</p>
+  </a></p>
 
