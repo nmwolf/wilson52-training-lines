@@ -59,6 +59,10 @@ The ABBYY and Tesseract entries were then compared using the FuzzyWuzzy Python l
 
 Over 700 addresses in the business directory have 1/2 in the address number, and Tesseract and ABBYY were equally unable to recognize that character. Six lines containing that an address with that character in the address number were thus corrected by hand and inserted at the end of the dataset (**entrynum** 6855-6860). The character provided in the data to represent 1/2 was ½ (U+00BD). This can easily be swapped for something else.  
 
+##Disclaimer
+
+Occasionally both Tesseract and ABBYY made recognition errors, though because both came up with the same output, such lines are included in this dataset. Correcting this output is a separate ongoing project.
+
 ##License
 
 The [original directory](https://digitalcollections.nypl.org/items/de3c45b0-a30b-0131-2a1e-58d385a7b928) has no copyright assertions. The data is similarly offered for use without restriction as CC-0: <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
