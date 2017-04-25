@@ -1,0 +1,466 @@
+laborers
+apiarists
+dairymen
+dairywomen
+farmer
+plantation overseers
+farmers
+planters
+florists
+gardeners
+nurserymen
+vine-growers
+stock-drovers
+stock-herders
+stock-raisers
+turpentine farmers
+professional
+personal services
+actors
+architects
+artists
+teachers of art
+auctioneers
+author
+lecturer
+literary
+barbers
+hairdressers
+billiard
+bowling saloon keepers
+employees
+boarding
+lodging-house keepers
+chemists
+assayers
+metallurgists
+clergy
+clerks
+copyists
+clerks in government offices
+clerks in hotels
+restaurants
+collectors
+claim agents
+dentists
+designers
+draughtsmen
+inventors
+domestic servants
+employees of charitable institutions
+employees of government
+employees of hotels
+restaurants
+engineers
+hostlers
+hotel keepers
+hunters
+trappers
+guides
+scouts
+janitors
+journalists
+laborers
+launderers
+laundresses
+lawyers
+livery-stable keepers
+messengers
+midwives
+musicians
+teachers music
+nurses
+officers of the army
+navy
+officials of government
+physicians
+surgeons
+restaurant keepers
+sexton
+showmen
+employees of shows
+soldiers
+sailors
+marines
+army
+navy
+teachers
+scientific persons
+veterinary surgeons
+watchmen
+detectives
+whitewashers
+others in professional
+services
+trade
+transportation
+agents
+bankers
+brokers
+boatmen
+watermen
+bookkeepers
+accountants in stores
+brokers
+canalmen
+clerks in stores
+clerks
+bookkeepers in banks
+clerks
+bookkeepers in companies
+clerks
+bookkeepers in offices
+clerks
+bookkeepers in railroad offices
+commercial travelers
+draymen
+hackmen
+teamsters
+employees in warehouses
+employees of banks
+employees of insurance companies
+employees of railroad companies
+hucksters
+peddlers
+milkmen
+milkwomen
+newspaper criers
+carriers
+officials
+employees of companies
+officials
+employees of street companies
+officials
+employees of telegraph companies
+officials
+employees of telephone companies
+officials
+employees of trade
+transportation companies
+officials of banks
+officials of insurance companies
+officials of railroad companies
+packers
+pilots
+porters
+laborers in stores warehouses
+sailors
+salesmen
+saleswomen
+saloon keepers
+bartenders
+shippers
+freighters
+steamboat men
+women
+stewards
+stewardesses
+toll-gate
+bridge keepers
+dealers
+dealers in agricultural implements
+dealers in books stationary
+dealers in boots
+dealers in shoes
+dealers in dealers in cabinet ware
+dealers in cigars
+tobacco
+dealers in clothing
+men's furnishing goods
+dealers in coal
+wood
+dealers in cotton
+wool
+dealers in crockery
+china
+glass
+stoneware
+dealers in drugs
+medicines
+dealers in dry foods
+fancy foods
+notions
+dealers in gold
+silverware
+jewelry
+dealers in groceries
+dealers in hats
+caps
+furs
+dealers in ice
+dealers in iron
+tin
+copperware
+dealers in junk
+dealers in leather
+hides
+skins
+dealers in liquors
+wines
+dealers in livestock
+dealers in lumber
+dealers in marble
+stone
+slate
+dealers in music
+musical instruments
+dealers in newspapers periodicals
+dealers in oils
+paints
+turpentine
+dealers in paper
+paper stock
+dealers in produce
+provisions
+dealers in real estate
+dealers in sewing machines
+undertakers
+weighers
+gaugers
+measurers
+others in trade
+transportation
+manufacturing
+mechanical
+mining industries
+agricultural implement makers
+artificial-flower makers
+apprentices to trades
+bag makers
+bakers
+basket makers
+blacksmiths
+bleachers
+dyers
+scourers
+blind
+door
+sash makers
+boat makers
+bone
+ivory workers
+bookbinders
+finishers
+boot
+shoemakers
+bottlers
+mineral-water makers
+box factory operatives
+brass founders
+workers
+brewers
+maltsters
+brick
+tile makers
+bridge builders
+contractors
+britannia
+japanned ware makers
+broom
+brush makers
+builders
+contractors
+butchers
+button-factory operatives
+cabinet makers
+candle
+soap
+tallow makers
+car makers
+carpenters
+joiners
+carpet makers
+carriage
+wagon makers
+charcoal
+lime burners
+cheese makers
+chemical-works employees
+cigar makers
+clerks
+bookkeepers
+clock
+watchmakers
+repairers
+confectioners
+coopers
+copper workers
+corset makers
+cotton-mill operatives
+distillers
+rectifiers
+employees
+engineers
+firemen
+engravers
+fertilizer establishment operatives
+file makers
+cutters
+grinders
+fishermen
+oystermen
+flax dressers
+fur workers
+galloon
+gimp
+tassel makers
+gas-works employees
+gilders
+glass-works operatives
+glove makers
+gold
+silver workers
+jewelers
+gun
+lock-smiths
+hair cleaners
+dressers
+workers
+harness
+saddle makers
+hat
+cap makers
+hosiery
+knitting mill operatives
+iron
+steel works
+shops operatives
+lace makers
+lead
+zinc works operatives
+leather case
+pocket-book makers
+leather curriers
+dressers
+finishers
+tanners
+lumbermen
+raftsmen
+machinists
+manufacturers
+marble
+stone cutters
+masons
+meat
+fruit preserving establishment employees
+meat packers
+curers
+picklers
+mechanics
+mill
+factory operatives
+millers
+milliners
+dressmakers
+seamstresses
+miners
+mirror
+picture frame makers
+nail makers
+officials of manufacturing
+mining companies
+oil mill
+refinery operatives
+oil well operatives
+laborers
+organ makers
+painters
+varnishers
+paperhangers
+paper mill operatives
+pattern makers
+photographers
+pianoforte makers
+tuners
+plasterers
+plumbers
+gasfitters
+potters
+printers
+lithographers
+stereotypers
+print-works operatives
+publishers of books
+maps
+newspapers
+pump makers
+quarrymen
+quartz
+stamp-mill operatives
+rag pickers
+railroad builders
+contractors
+roofers
+slaters
+rope
+cordage makers
+rubber factory operatives
+sail
+awning makers
+salt makers
+saw
+planing mill operatives
+sawyers
+scale
+rule makers
+screw makers
+sewing machine factory operatives
+sewing machine operators
+shingle
+lath makers
+ship carpenters
+caulkers
+riggers
+smiths
+shirt
+traders
+cuff
+collar makers
+silk mill operatives
+starch makers
+stave
+shook
+heading makers
+steam boiler makers
+stove
+furnace
+grate makers
+straw workers
+sugar makers
+refiners
+tailors
+tailoresses
+thread makers
+tinners
+tinware makers
+tool
+cutlery makers
+trunk
+valise
+carpet-bag makers
+tobacco factory operatives
+umbrella
+parasol makers
+upholsterers
+wheelwrights
+wire makers
+workers
+wood choppers
+wood turners
+carvers
+woodenware makers
+woolen mill operatives
+others in manufacturing
+mechanical
+mining industries
+officials
+industry not specified
+engaged in slave trade
+non-occupational response
+keeping house
+logical change
+keeping house
+student
+retired
+institutional inmate
+gentleman
